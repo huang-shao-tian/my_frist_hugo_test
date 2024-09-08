@@ -1,0 +1,4 @@
+baseURL = 'https://hao_ai_engineer.org/'
+languageCode = 'ja-JP'
+title = 'My development with ai'
+theme = 'ananke'

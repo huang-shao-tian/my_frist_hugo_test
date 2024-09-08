@@ -1,5 +1,5 @@
 +++
-title = 'My First Post'
+title = 'A test.'
 date = 2024-09-08T15:27:36+09:00
 draft = false
 +++
